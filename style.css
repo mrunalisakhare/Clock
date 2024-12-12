@@ -104,3 +104,12 @@ img {
     background-color: goldenrod;
     transform: rotate(250deg);
 }
+
+@media(max-width:450px){
+    #container {
+    height:280px;
+    width:280px;
+         border-radius: 50%;
+    }
+  
+}
